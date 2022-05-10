@@ -1,5 +1,5 @@
 # Uni-System
-In this university system, you can do the following functionality:</br>
+</h3>In this university system, you can do the following functionality:</h3></br>
 	Adding new teachers.</br>
 	Adding new students.</br>
 	Inserting student degree.</br>
