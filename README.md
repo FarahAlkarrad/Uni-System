@@ -1,5 +1,5 @@
 # Uni-System
-In this university system, you can do the following functionality:</br>
+<h4>In this university system, you can do the following functionality:</h4>
 <ul>
 	<li>Adding new teachers.</li>
 	<li>Adding new students.</li>
@@ -9,4 +9,4 @@ In this university system, you can do the following functionality:</br>
 	<li>Updating student degree.</li>
 </ul>
 </br>
-All teachers "Doctors", students, and degrees insert into a database.
+All teachers, students, and degrees insert into a <b>database</b>.
