@@ -1,11 +1,10 @@
 # Uni-System
-<p>A university registration system 
+<h4>A university registration system</h4> 
 <ul><li>written in Java programming language</li>
 <li>using an object-oriented approach</li>
 <li>connect with SQL database</li>
 <li>view by Java Swing User Interface.</li>
 </ul>
-</p>
 
 <h4>The main functionality:</h4>
 <ul>
