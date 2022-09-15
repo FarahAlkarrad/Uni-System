@@ -1,5 +1,13 @@
 # Uni-System
-<h4>In this university system, you can do the following functionality:</h4>
+<p>A university registration system 
+<ul><li>written in Java programming language</li>
+<li>using an object-oriented approach</li>
+<li>connect with SQL database</li>
+<li>view by Java Swing User Interface.</li>
+</ul>
+</p>
+
+<h4>The main functionality:</h4>
 <ul>
 	<li>Adding new teachers.</li>
 	<li>Adding new students.</li>
@@ -8,5 +16,6 @@
 	<li>Updating student information.</li>
 	<li>Updating student degree.</li>
 </ul>
-</br>
 All teachers, students, and degrees insert into a <b>database</b>.
+</br>
+<h4>A university system view in NetBeans IDE - Java Swing User Interface</h4>
