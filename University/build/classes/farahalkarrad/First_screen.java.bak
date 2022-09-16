@@ -21,9 +21,9 @@ public class First_screen extends JFrame implements ActionListener {
 
     public void show_first_screen() {
         //initialized user name and password label
-        user = new JLabel("Doctor Name");
+        user = new JLabel("Teacher Name");
         pass = new JLabel("Password");
-        user.setBounds(100, 70, 80, 25);
+        user.setBounds(90, 70, 90, 25);
         pass.setBounds(100, 100, 80, 25);
         i.add(user);
         i.add(pass);

@@ -44,7 +44,7 @@ public class Second_screen extends JFrame implements ActionListener {
         //initialized sign Up and back Button
         send = new JButton("Sign Up");
         back = new JButton("Back");
-        send.setBounds(160, 180, 80, 20);
+        send.setBounds(160, 180, 100, 40);
         back.setBounds(0, 0, 70, 20);
         i.add(send);
         i.add(back);
