@@ -17,3 +17,9 @@
 </ul>
 All teachers, students, and degrees insert into a <b>database</b>.
 </br>
+
+<h4>System view using NetBeans IDE</h4>
+
+![](screenshots/login_page.png)
+![](screenshots/SignUp_page.png)
+![](screenshots/Dashboard_page.png)
