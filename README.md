@@ -17,7 +17,6 @@
 </ul>
 All teachers, students, and degrees insert into a <b>database</b>.
 </br>
-=======
 
 <h4>System view using NetBeans IDE</h4>
 
