@@ -1,19 +1,19 @@
-# Uni-System
-<h4>A university registration system</h4> 
-<ul><li>written in Java programming language</li>
-<li>using an object-oriented approach</li>
-<li>connect with SQL database</li>
-<li>view by Java Swing User Interface.</li>
+# University Registration System
+<ul>
+	<li>written in Java programming language.</li>
+	<li>using an object-oriented approach.</li>
+	<li>connect with SQLite database.</li>
+	<li>view by Java Swing User Interface.</li>
 </ul>
 
-<h4>The main functionality:</h4>
+### Main functionality: Add | Details | Updates	
 <ul>
 	<li>Adding new teachers.</li>
 	<li>Adding new students.</li>
-	<li>Inserting student degree.</li>
+	<li>Adding student degrees.</li>
 	<li>Showing total degree(sum of assignment, mid and final exam) & print it.</li>
 	<li>Updating student information.</li>
-	<li>Updating student degree.</li>
+	<li>Updating student degrees.</li>
 </ul>
 All teachers, students, and degrees insert into a <b>database</b>.
 </br>
